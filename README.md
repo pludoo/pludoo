@@ -1,6 +1,6 @@
 # About Me
 
-I'm a 15y/o from Colorado, currently learning C# and actively becoming better at Game Development 🚀
+I'm a 16y/o from Colorado, currently learning C++ and actively becoming better at programming 🚀
 
 ## Socials
 
@@ -9,8 +9,8 @@ I'm a 15y/o from Colorado, currently learning C# and actively becoming better at
 [Instagram](instagram.com/hudlez)
 
 ## Favorite Line of Code
-```python
-print("Hello, World!")
+```c++
+stc::cout << "Hello, Universe!\n";
 ```
 
 ## Contributing to Any Projects I Post
