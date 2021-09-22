@@ -10,7 +10,7 @@ I'm a 16y/o from Colorado, currently learning C++ and actively becoming better a
 
 ## Favorite Line of Code
 ```c++
-stc::cout << "Hello, Universe!\n";
+std::cout << "Hello, Universe!\n";
 ```
 
 ## Contributing to Any Projects I Post
