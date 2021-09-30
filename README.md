@@ -8,9 +8,12 @@ I'm a 16y/o from Colorado, currently learning C++ and actively becoming better a
 [YouTube](youtube.com/hudlez) \
 [Instagram](instagram.com/hudlez)
 
-## Favorite Line of Code
+## Favorite Line(s) of Code
 ```c++
-std::cout << "Hello, Universe!\n";
+int main() {
+  main()
+  return 0;
+}";
 ```
 
 ## Contributing to Any Projects I Post
